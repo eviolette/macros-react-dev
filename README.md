@@ -1,2 +1,2 @@
 # macros-react-dev
-Learning React
+Learning React. End goal is to have some sort of working UI around BC
